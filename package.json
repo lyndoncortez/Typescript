@@ -1,0 +1,24 @@
+{
+  "name": "Typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyndoncortez/Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyndoncortez/Typescript/issues"
+  },
+  "homepage": "https://github.com/lyndoncortez/Typescript#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ts-node": "^9.1.1"
+  }
+}
